@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Adventure Safari",
+        "destination": "Serengeti National Park, Tanzania",
+        "travel_dates_departure": "2024-09-15",
+        "travel_dates_return": "2024-09-22",
+        "type": "Lodge",
+        "hotel": "Serengeti Luxury Lodge",
+        "nights": 7,
+        "activities": [
+            "Daily safari drives",
+            "Bird watching tours",
+            "Hot air balloon ride",
+            "Cultural visits to Maasai villages"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals and beverages",
+            "Guided tours",
+            "Park entrance fees"
+        ],
+        "price": 4500,
+        "available_spots": 12,
+        "transport_company": "Safari Air"
+    },
+    {
+        "name": "Maldives Lagoon Villas",
+        "destination": "Maldives",
+        "travel_dates_departure": "2024-05-15",
+        "travel_dates_return": "2024-05-24",
+        "type": "Resort",
+        "hotel": "Maldives Lagoon Villas",
+        "nights": 9,
+        "activities": [
+            "Snorkeling",
+            "Spa treatments",
+            "Beach relaxation",
+            "Water sports"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Water sports equipment",
+            "Resort fees"
+        ],
+        "price": 5200,
+        "available_spots": 15,
+        "transport_company": "Maldives Air"
+    },
+    {
+        "name": "Safari and Culture",
+        "destination": "Kruger National Park, South Africa",
+        "travel_dates_departure": "2024-11-01",
+        "travel_dates_return": "2024-11-10",
+        "type": "Safari Lodge",
+        "hotel": "Kruger Luxury Safari Lodge",
+        "nights": 9,
+        "activities": [
+            "Game drives",
+            "Bush walks",
+            "Cultural village visits",
+            "Photography"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Guided tours",
+            "Park fees"
+        ],
+        "price": 4800,
+        "available_spots": 10,
+        "transport_company": "African Safari Airlines"
+    },
+    {
+        "name": "Historical Italy",
+        "destination": "Rome, Italy",
+        "travel_dates_departure": "2024-04-01",
+        "travel_dates_return": "2024-04-10",
+        "type": "Hotel",
+        "hotel": "Rome Historic Hotel",
+        "nights": 9,
+        "activities": [
+            "Colosseum tour",
+            "Vatican visits",
+            "City tours",
+            "Culinary experiences"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Guided tours",
+            "Museum tickets"
+        ],
+        "price": 3500,
+        "available_spots": 20,
+        "transport_company": "Italian Air"
+    },
+    {
+        "name": "Japanese Cherry Blossom Tour",
+        "destination": "Kyoto, Japan",
+        "travel_dates_departure": "2024-03-20",
+        "travel_dates_return": "2024-03-30",
+        "type": "Hotel",
+        "hotel": "Kyoto Blossom Hotel",
+        "nights": 10,
+        "activities": [
+            "Cherry blossom viewing",
+            "Temple visits",
+            "Cultural experiences",
+            "Tea ceremonies"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Guided tours",
+            "Entrance fees"
+        ],
+        "price": 4000,
+        "available_spots": 18,
+        "transport_company": "Japan Airlines"
+    },
+    {
+        "name": "Brazilian Carnival Experience",
+        "destination": "Rio de Janeiro, Brazil",
+        "travel_dates_departure": "2024-02-01",
+        "travel_dates_return": "2024-02-10",
+        "type": "Hotel",
+        "hotel": "Rio Carnival Hotel",
+        "nights": 9,
+        "activities": [
+            "Carnival parade",
+            "City tours",
+            "Beach days",
+            "Samba classes"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Carnival tickets",
+            "Guided tours"
+        ],
+        "price": 4200,
+        "available_spots": 25,
+        "transport_company": "Brazilian Airways"
+    },
+    {
+        "name": "Canadian Rockies Exploration",
+        "destination": "Banff, Canada",
+        "travel_dates_departure": "2024-07-01",
+        "travel_dates_return": "2024-07-10",
+        "type": "Lodge",
+        "hotel": "Banff Mountain Lodge",
+        "nights": 9,
+        "activities": [
+            "Mountain hikes",
+            "Wildlife watching",
+            "Lake cruises",
+            "Cultural tours"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Guided tours",
+            "Park fees"
+        ],
+        "price": 3800,
+        "available_spots": 14,
+        "transport_company": "Canadian Air"
+    },
+    {
+        "name": "Cuban Culture and Beaches",
+        "destination": "Havana, Cuba",
+        "travel_dates_departure": "2024-06-01",
+        "travel_dates_return": "2024-06-10",
+        "type": "Resort",
+        "hotel": "Havana Beach Resort",
+        "nights": 9,
+        "activities": [
+            "City tours",
+            "Beach relaxation",
+            "Cuban music shows",
+            "Cultural experiences"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Guided tours",
+            "Resort fees"
+        ],
+        "price": 3300,
+        "available_spots": 22,
+        "transport_company": "Cuban Airlines"
+    },
+    {
+        "name": "Alaskan Wilderness Adventure",
+        "destination": "Anchorage, Alaska, USA",
+        "travel_dates_departure": "2024-08-01",
+        "travel_dates_return": "2024-08-10",
+        "type": "Cabin",
+        "hotel": "Anchorage Wilderness Cabin",
+        "nights": 9,
+        "activities": [
+            "Wildlife tours",
+            "Fishing",
+            "Hiking",
+            "Glacier tours"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Guided tours",
+            "Fishing gear"
+        ],
+        "price": 3500,
+        "available_spots": 8,
+        "transport_company": "Alaska Airlines"
+    },
+    {
+        "name": "Aegean Sea Cruise",
+        "destination": "Mykonos, Greece",
+        "travel_dates_departure": "2024-06-15",
+        "travel_dates_return": "2024-06-25",
+        "type": "Cruise",
+        "hotel": "Aegean Cruise Ship",
+        "nights": 10,
+        "activities": [
+            "Island hopping",
+            "Beach relaxation",
+            "Historical site visits",
+            "Water sports"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Guided tours",
+            "Cruise amenities"
+        ],
+        "price": 5500,
+        "available_spots": 30,
+        "transport_company": "Aegean Cruises"
+    },
+    {
+        "name": "Cairo and Luxor Exploration",
+        "destination": "Cairo and Luxor, Egypt",
+        "travel_dates_departure": "2024-10-01",
+        "travel_dates_return": "2024-10-10",
+        "type": "Hotel",
+        "hotel": "Cairo-Luxor Historical Hotel",
+        "nights": 9,
+        "activities": [
+            "Pyramids tours",
+            "Luxor temple visits",
+            "Nile cruise",
+            "Cultural experiences"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Guided tours",
+            "Entrance fees"
+        ],
+        "price": 3700,
+        "available_spots": 20,
+        "transport_company": "EgyptAir"
+    },
+    {
+        "name": "Great Barrier Reef Adventure",
+        "destination": "Cairns, Australia",
+        "travel_dates_departure": "2024-07-10",
+        "travel_dates_return": "2024-07-20",
+        "type": "Resort",
+        "hotel": "Great Barrier Reef Resort",
+        "nights": 10,
+        "activities": [
+            "Snorkeling",
+            "Scuba diving",
+            "Reef tours",
+            "Rainforest excursions"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Guided tours",
+            "Scuba diving equipment"
+        ],
+        "price": 5000,
+        "available_spots": 12,
+        "transport_company": "Australian Airways"
+    },
+    {
+        "name": "European Capitals Tour",
+        "destination": "London and Paris",
+        "travel_dates_departure": "2024-05-01",
+        "travel_dates_return": "2024-05-15",
+        "type": "Hotel",
+        "hotel": "London-Paris City Hotel",
+        "nights": 14,
+        "activities": [
+            "City tours",
+            "Museum visits",
+            "Cultural experiences",
+            "Shopping"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Guided tours",
+            "Entrance fees"
+        ],
+        "price": 5500,
+        "available_spots": 16,
+        "transport_company": "European Airways"
+    },
+    {
+        "name": "Hawaiian Adventure",
+        "destination": "Honolulu, Hawaii, USA",
+        "travel_dates_departure": "2024-05-01",
+        "travel_dates_return": "2024-05-10",
+        "type": "Hotel",
+        "hotel": "Honolulu Beach Hotel",
+        "nights": 9,
+        "activities": [
+            "Beach days",
+            "Volcano tours",
+            "Hiking",
+            "Cultural experiences"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "Daily breakfast",
+            "Guided tours",
+            "Entrance fees"
+        ],
+        "price": 3500,
+        "available_spots": 20,
+        "transport_company": "Hawaiian Airlines"
+    },
+    {
+        "name": "Malaysian Beach and Culture",
+        "destination": "Langkawi, Malaysia",
+        "travel_dates_departure": "2024-10-01",
+        "travel_dates_return": "2024-10-10",
+        "type": "Resort",
+        "hotel": "Langkawi Beach Resort",
+        "nights": 9,
+        "activities": [
+            "Beach relaxation",
+            "Cultural tours",
+            "Island hopping",
+            "Water sports"
+        ],
+        "inclusions": [
+            "Round-trip airfare",
+            "All meals",
+            "Guided tours",
+            "Resort fees"
+        ],
+        "price": 3300,
+        "available_spots": 18,
+        "transport_company": "Malaysian Airlines"
+    }
+]

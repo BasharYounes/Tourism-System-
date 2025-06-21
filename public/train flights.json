@@ -1,0 +1,75 @@
+{
+    "train_routes": [
+      {
+        "train_number": "TR123",
+        "railway_company": "Delta Railways",
+        "website": "https://www.delta-railways.com",
+        "departure_station": "Los Angeles Union Station",
+        "departure_time": "2024-04-18T10:30:00",
+        "departure_date": "2024-04-18",
+        "arrival_station": "New York Penn Station",
+        "arrival_time": "2024-04-18T19:30:00",
+        "duration": "9h",
+        "price": 150,
+        "class": "Economy",
+        "available_seats": 120
+      },
+      {
+        "train_number": "TR456",
+        "railway_company": "United Railways",
+        "website": "https://www.united-railways.com",
+        "departure_station": "Chicago Union Station",
+        "departure_time": "2024-05-12T08:00:00",
+        "departure_date": "2024-05-12",
+        "arrival_station": "Washington Union Station",
+        "arrival_time": "2024-05-12T14:00:00",
+        "duration": "6h",
+        "price": 200,
+        "class": "Business",
+        "available_seats": 80
+      },
+      {
+        "train_number": "TR789",
+        "railway_company": "American Railways",
+        "website": "https://www.american-railways.com",
+        "departure_station": "San Francisco Caltrain Station",
+        "departure_time": "2024-06-20T15:00:00",
+        "departure_date": "2024-06-20",
+        "arrival_station": "Seattle King Street Station",
+        "arrival_time": "2024-06-20T21:30:00",
+        "duration": "6h 30m",
+        "price": 180,
+        "class": "Economy",
+        "available_seats": 100
+      },
+      {
+        "train_number": "TR321",
+        "railway_company": "Southwest Railways",
+        "website": "https://www.southwest-railways.com",
+        "departure_station": "Houston Amtrak Station",
+        "departure_time": "2024-07-15T09:00:00",
+        "departure_date": "2024-07-15",
+        "arrival_station": "New Orleans Union Passenger Terminal",
+        "arrival_time": "2024-07-15T13:30:00",
+        "duration": "4h 30m",
+        "price": 120,
+        "class": "Economy",
+        "available_seats": 60
+      },
+      {
+        "train_number": "TR654",
+        "railway_company": "Air France Rail",
+        "website": "https://www.airfrance-rail.com",
+        "departure_station": "Paris Gare du Nord",
+        "departure_time": "2024-08-10T07:45:00",
+        "departure_date": "2024-08-10",
+        "arrival_station": "London St Pancras International",
+        "arrival_time": "2024-08-10T09:15:00",
+        "duration": "1h 30m",
+        "price": 220,
+        "class": "First",
+        "available_seats": 40
+      }
+    ]
+  }
+  

@@ -1,0 +1,69 @@
+[
+    {
+        "car_type": "Toyota Camry",
+        "car_color": "Yellow",
+        "car_number": "1234ABC",
+        "image_url": "https://taxiykw.com/wp-content/uploads/2023/03/0622aa27-0995-49b9-b116-c0332300c23c-1-1-1024x551.jpg"
+    },
+    {
+        "car_type": "Honda Civic",
+        "car_color": "white",
+        "car_number": "5678DEF",
+        "image_url": "https://taxiykw.com/wp-content/uploads/2023/03/0622aa27-0995-49b9-b116-c0332300c23c-1-1-1024x551.jpg"
+    },
+    {
+        "car_type": "Nissan Altima",
+        "car_color": "Red",
+        "car_number": "9101GHI",
+        "image_url": "https://a0.cdnfan.com/images/M/0/3/1/4/toyota-prius-2012-taxi_hd_36614.jpg"
+    },
+    {
+        "car_type": "Nissan",
+        "car_color": "green",
+        "car_number": "1122JKL",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Nissan_Cedric_Hong_Kong_taxicab_%28HK_KCRTaiPoMarketStation_%28cropped%29%29.JPG"
+    },
+    {
+        "car_type": "Ford Fusion",
+        "car_color": "green",
+        "car_number": "2233MNO",
+        "image_url": "https://vid.alarabiya.net/images/2020/01/20/9f22811b-85eb-484e-9f29-671f11f6d961/9f22811b-85eb-484e-9f29-671f11f6d961_16x9_1200x676.jpg"
+    },
+    {
+        "car_type": "Chevrolet Impala",
+        "car_color": "white",
+        "car_number": "3344PQR",
+        "image_url": "https://miniauto.ps/upload/12-2022/product/Mercedes%20Ben%20200%20TAXI%20offwhite-08.jpg"
+    },
+    {
+        "car_type": "Hyundai Elantra",
+        "car_color": "white",
+        "car_number": "4455STU",
+        "image_url": "https://images.akhbarelyom.com//images/images/medium/20210516114254620.jpg"
+    },
+    {
+        "car_type": "Kia Forte",
+        "car_color": "gold",
+        "car_number": "5566VWX",
+        "image_url": "https://s3-eu-west-1.amazonaws.com/img.montada.haraj.com.sa/imgdir-s3/537afe653b38b.jpg"
+    },
+    {
+        "car_type": "Subaru Legacy",
+        "car_color": "red",
+        "car_number": "6677YZA",
+        "image_url": "https://live.staticflickr.com/762/23707043295_7748db18dc_b.jpg"
+    },
+    {
+        "car_type": "Volkswagen Passat",
+        "car_color": "yellow",
+        "car_number": "7788BCD",
+        "image_url": "https://live.staticflickr.com/65535/51385359702_88c58cff83_b.jpg"
+    },
+    {
+        "car_type": "Honda",
+        "car_color": "silver",
+        "car_number": "8899EFG",
+        "image_url": "https://live.staticflickr.com/65535/51385359702_88c58cff83_b.jpg"
+    }
+
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "mohamd",
+        "phone_number": "0923456789",
+        "date_of_birth": "1990-01-15",
+        "nationality": "syrian"
+    },
+    {
+        "name": "ali",
+        "phone_number": "0987654321",
+        "date_of_birth": "1985-05-20",
+        "nationality": "syrian"
+    },
+    {
+        "name": "samer",
+        "phone_number": "0922334455",
+        "date_of_birth": "1992-08-30",
+        "nationality": "Egyptian"
+    },
+    {
+        "name": "saed",
+        "phone_number": "0966778899",
+        "date_of_birth": "1988-12-10",
+        "nationality": "Lebanese"
+    },
+    {
+        "name": "yazen",
+        "phone_number": "0955667788",
+        "date_of_birth": "1995-03-25",
+        "nationality": "Jordanian"
+    },
+    {
+        "name": "adel",
+        "phone_number": "0912345678",
+        "date_of_birth": "1991-09-05",
+        "nationality": "syrian"
+    },
+    {
+        "name": "tarek",
+        "phone_number": "0934567890",
+        "date_of_birth": "1987-11-22",
+        "nationality": "Kuwaiti"
+    },
+    {
+        "name": "rami",
+        "phone_number": "0934567890",
+        "date_of_birth": "1994-04-18",
+        "nationality": "Indian"
+    },
+    {
+        "name": "adam",
+        "phone_number": "0923456789",
+        "date_of_birth": "1980-06-30",
+        "nationality": "Indian"
+    }
+
+    
+]

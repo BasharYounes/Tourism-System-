@@ -1,0 +1,867 @@
+[
+    {
+      "name": "Hotel Alpha",
+      "address": "123 Main Street",
+      "city": "New York",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.marriott.com/hotel-alpha",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Alpha",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 150,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Alpha+1"
+        },
+        {
+          "capacity": 3,
+          "price": 220,
+          "reservation_type": "Deluxe",
+          "photo": "https://via.placeholder.com/150?text=Room+Alpha+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Beta",
+      "address": "456 Ocean Avenue",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hilton.com/hotel-beta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Beta",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 200,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Beta+1"
+        },
+        {
+          "capacity": 2,
+          "price": 350,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Beta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Gamma",
+      "address": "789 Park Lane",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.ihg.com/hotel-gamma",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Gamma",
+      "rating_average": 4.1,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 120,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Gamma+1"
+        },
+        {
+          "capacity": 4,
+          "price": 200,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Gamma+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Delta",
+      "address": "654 Willow Road",
+      "city": "San Francisco",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hyatt.com/hotel-delta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Delta",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Delta+1"
+        },
+        {
+          "capacity": 3,
+          "price": 450,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Delta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Epsilon",
+      "address": "321 Mountain Drive",
+      "city": "Denver",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.accor.com/hotel-epsilon",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Epsilon",
+      "rating_average": 4.3,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 130,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Epsilon+1"
+        },
+        {
+          "capacity": 2,
+          "price": 190,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Epsilon+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Zeta",
+      "address": "777 Sea Avenue",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.wyndham.com/hotel-zeta",
+      "photo": "http://pix2.agoda.net/hotelimages/1/-1/0ff4876f93688b8adcbed487b5a2175d.jpg?s=312x",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Zeta+1"
+        },
+        {
+          "capacity": 4,
+          "price": 480,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Zeta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Eta",
+      "address": "987 Lake Shore Drive",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.choicehotels.com/hotel-eta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Eta",
+      "rating_average": 4.2,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 260,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Eta+1"
+        },
+        {
+          "capacity": 2,
+          "price": 350,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Eta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Theta",
+      "address": "654 Elm Street",
+      "city": "San Diego",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.radissonhotels.com/hotel-theta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Theta",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 280,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Theta+1"
+        },
+        {
+          "capacity": 2,
+          "price": 400,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Theta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Iota",
+      "address": "2109 Lake Road",
+      "city": "Seattle",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.bestwestern.com/hotel-iota",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Iota",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Deluxe",
+          "photo": "https://via.placeholder.com/150?text=Room+Iota+1"
+        },
+        {
+          "capacity": 4,
+          "price": 450,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Iota+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Kappa",
+      "address": "987 Ocean Drive",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.intercontinental.com/hotel-kappa",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Kappa",
+      "rating_average": 4.2,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 200,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Kappa+1"
+        },
+        {
+          "capacity": 3,
+          "price": 260,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Kappa+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Lambda",
+      "address": "321 Market Street",
+      "city": "Orlando",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.shangri-la.com/hotel-lambda",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Lambda",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 310,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Lambda+1"
+        },
+        {
+          "capacity": 4,
+          "price": 500,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Lambda+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Mu",
+      "address": "456 Sunset Boulevard",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.fourseasons.com/hotel-mu",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Mu",
+      "rating_average": 4.0,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 100,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Mu+1"
+        },
+        {
+          "capacity": 1,
+          "price": 150,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Mu+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Nu",
+      "address": "890 Greenway",
+      "city": "Atlanta",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.tajhotels.com/hotel-nu",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Nu",
+      "rating_average": 4.3,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 180,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Nu+1"
+        },
+        {
+          "capacity": 2,
+          "price": 250,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Nu+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Xi",
+      "address": "123 Bayside Avenue",
+      "city": "Tampa",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.stregis.com/hotel-xi",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Xi",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 400,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Xi+1"
+        },
+        {
+          "capacity": 3,
+          "price": 550,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Xi+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Omicron",
+      "address": "456 Hill Road",
+      "city": "Boston",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.mandarinoriental.com/hotel-omicron",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Omicron",
+      "rating_average": 4.6,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Omicron+1"
+        },
+        {
+          "capacity": 4,
+          "price": 420,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Omicron+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Pi",
+      "address": "789 Ocean Boulevard",
+      "city": "Newport",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.jumeirah.com/hotel-pi",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Pi",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 250,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Pi+1"
+        },
+        {
+          "capacity": 2,
+          "price": 380,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Pi+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Rho",
+      "address": "234 Park Lane",
+      "city": "San Francisco",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.rosewoodhotels.com/hotel-rho",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Rho",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 200,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Rho+1"
+        },
+        {
+          "capacity": 4,
+          "price": 280,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Rho+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Sigma",
+      "address": "567 Palm Avenue",
+      "city": "Orlando",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.sofitel.com/hotel-sigma",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Sigma",
+      "rating_average": 4.0,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 150,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Sigma+1"
+        },
+        {
+          "capacity": 2,
+          "price": 200,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Sigma+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Tau",
+      "address": "890 Lake Drive",
+      "city": "Seattle",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.ritzcarlton.com/hotel-tau",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Tau",
+      "rating_average": 4.4,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Tau+1"
+        },
+        {
+          "capacity": 3,
+          "price": 350,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Tau+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Upsilon",
+      "address": "123 River Road",
+      "city": "Austin",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.fairmont.com/hotel-upsilon",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Upsilon",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 400,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Upsilon+1"
+        },
+        {
+          "capacity": 4,
+          "price": 600,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Upsilon+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Phi",
+      "address": "456 Beach Road",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.luxurycollection.com/hotel-phi",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Phi",
+      "rating_average": 3.9,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 120,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Phi+1"
+        },
+        {
+          "capacity": 2,
+          "price": 180,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Phi+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Chi",
+      "address": "789 Sunset Boulevard",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.andaz.com/hotel-chi",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Chi",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 250,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Chi+1"
+        },
+        {
+          "capacity": 3,
+          "price": 320,
+          "reservation_type": "Deluxe",
+          "photo": "https://via.placeholder.com/150?text=Room+Chi+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Psi",
+      "address": "123 Ocean Avenue",
+      "city": "Newport",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.peninsula.com/hotel-psi",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Psi",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 200,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Psi+1"
+        },
+        {
+          "capacity": 2,
+          "price": 320,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Psi+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Omega",
+      "address": "456 Lake Shore Drive",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.crowneplaza.com/hotel-omega",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Omega",
+      "rating_average": 4.6,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 250,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Omega+1"
+        },
+        {
+          "capacity": 3,
+          "price": 300,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Omega+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Zeta",
+      "address": "789 Greenway",
+      "city": "Atlanta",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.marriott.com/hotel-zeta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Zeta",
+      "rating_average": 4.0,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 140,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Zeta+1"
+        },
+        {
+          "capacity": 2,
+          "price": 180,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Zeta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Alpha",
+      "address": "123 Main Street",
+      "city": "New York",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.marriott.com/hotel-alpha",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Alpha",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 150,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Alpha+1"
+        },
+        {
+          "capacity": 3,
+          "price": 220,
+          "reservation_type": "Deluxe",
+          "photo": "https://via.placeholder.com/150?text=Room+Alpha+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Beta",
+      "address": "456 Ocean Avenue",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hilton.com/hotel-beta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Beta",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 200,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Beta+1"
+        },
+        {
+          "capacity": 2,
+          "price": 350,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Beta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Gamma",
+      "address": "789 Park Lane",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.ihg.com/hotel-gamma",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Gamma",
+      "rating_average": 4.1,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 120,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Gamma+1"
+        },
+        {
+          "capacity": 4,
+          "price": 200,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Gamma+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Delta",
+      "address": "654 Willow Road",
+      "city": "San Francisco",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hyatt.com/hotel-delta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Delta",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Delta+1"
+        },
+        {
+          "capacity": 3,
+          "price": 450,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Delta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Epsilon",
+      "address": "321 Mountain Drive",
+      "city": "Denver",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.accor.com/hotel-epsilon",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Epsilon",
+      "rating_average": 4.3,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 130,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Epsilon+1"
+        },
+        {
+          "capacity": 2,
+          "price": 190,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Epsilon+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Zeta",
+      "address": "777 Sea Avenue",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.wyndham.com/hotel-zeta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Zeta",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Suite",
+          "photo": "https://via.placeholder.com/150?text=Room+Zeta+1"
+        },
+        {
+          "capacity": 4,
+          "price": 480,
+          "reservation_type": "Luxury",
+          "photo": "https://via.placeholder.com/150?text=Room+Zeta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Eta",
+      "address": "987 Lake Shore Drive",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.choicehotels.com/hotel-eta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Eta",
+      "rating_average": 4.2,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 260,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Eta+1"
+        },
+        {
+          "capacity": 2,
+          "price": 210,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Eta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Theta",
+      "address": "456 City Center",
+      "city": "New York",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.melia.com/hotel-theta",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Theta",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Standard",
+          "photo": "https://via.placeholder.com/150?text=Room+Theta+1"
+        },
+        {
+          "capacity": 4,
+          "price": 500,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Theta+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Iota",
+      "address": "999 Canyon Boulevard",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.radissonhotels.com/hotel-iota",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Iota",
+      "rating_average": 3.8,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 110,
+          "reservation_type": "Single",
+          "photo": "https://via.placeholder.com/150?text=Room+Iota+1"
+        },
+        {
+          "capacity": 2,
+          "price": 170,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Iota+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Kappa",
+      "address": "123 Beachfront Road",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.lhw.com/hotel-kappa",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Kappa",
+      "rating_average": 4.4,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 240,
+          "reservation_type": "Double",
+          "photo": "https://via.placeholder.com/150?text=Room+Kappa+1"
+        },
+        {
+          "capacity": 3,
+          "price": 320,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Kappa+2"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Lambda",
+      "address": "789 Broadway",
+      "city": "San Diego",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.relaischateaux.com/hotel-lambda",
+      "photo": "https://via.placeholder.com/300?text=Hotel+Lambda",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 310,
+          "reservation_type": "Triple",
+          "photo": "https://via.placeholder.com/150?text=Room+Lambda+1"
+        },
+        {
+          "capacity": 4,
+          "price": 500,
+          "reservation_type": "Family",
+          "photo": "https://via.placeholder.com/150?text=Room+Lambda+2"
+        }
+      ]
+    }
+  ]
+  

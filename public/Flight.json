@@ -1,0 +1,41 @@
+{
+    "flights": [
+      {
+        "flight_number": "EK215",
+        "airline": "Emirates",
+        "departure_airport": "JFK",
+        "departure_time": "2024-04-18T08:00:00",
+        "arrival_airport": "DXB",
+        "arrival_time": "2024-04-19T06:00:00",
+        "duration": "14h",
+        "price": "$800",
+        "class": "Economy",
+        "available_seats": 120
+      },
+      {
+        "flight_number": "BA123",
+        "airline": "British Airways",
+        "departure_airport": "LHR",
+        "departure_time": "2024-04-18T12:00:00",
+        "arrival_airport": "JFK",
+        "arrival_time": "2024-04-18T16:00:00",
+        "duration": "8h",
+        "price": "$900",
+        "class": "Business",
+        "available_seats": 20
+      },
+      {
+        "flight_number": "DL456",
+        "airline": "Delta Air Lines",
+        "departure_airport": "LAX",
+        "departure_time": "2024-04-18T10:30:00",
+        "arrival_airport": "JFK",
+        "arrival_time": "2024-04-18T19:30:00",
+        "duration": "5h",
+        "price": "$600",
+        "class": "Economy",
+        "available_seats": 50
+      }
+    ]
+  }
+  

@@ -1,0 +1,166 @@
+ [
+      {
+        "car_type": "Sedan",
+        "car_color": "black",
+        "car_cost": 300,
+        "car_classification": "single",
+        "car_capacity": 1,
+        "car_number": "ABC123",
+        "car_image":"https://www.elbalad.news/Upload/libfiles/1039/3/302.jpg"
+      },
+      {
+        "car_type": "Sedan",
+        "car_color": "white",
+        "car_cost": 320,
+        "car_classification": "Family",
+        "car_capacity": 6,
+        "car_number": "NOP901",
+        "car_image":"https://cdn.al-ain.com/lg/images/2021/11/30/143-172122-see-first-pictures-2023-genesis-g90-sedan-2.jpeg"
+      },
+      {
+        "car_type": "Hatchback",
+        "car_color": "Red",
+        "car_cost": 250,
+        "car_classification": "double",
+        "car_capacity": 2,
+        "car_number": "XYZ456",
+        "car_image":"https://media.gemini.media/img/large/2018/12/16/2018_12_16_18_56_54_791.jpg"
+      },
+      {
+        "car_type": "Hatchback",
+        "car_color": "Yellow",
+        "car_cost": 290,
+        "car_classification": "double",
+        "car_capacity": 2,
+        "car_number": "VWX012",
+        "car_image":"https://media.gemini.media/img/Original/2017/11/8/2017_11_8_13_51_35_611.jpg"
+      },
+      {
+        "car_type": "Hatchback",
+        "car_color": "silver",
+        "car_cost": 270,
+        "car_classification": "Family",
+        "car_capacity": 5,
+        "car_number": "DEF234",
+        "car_image":"https://malekcars.com/wp-content/uploads/2022/05/New-Project-1_1652107175_91j2Z2mpYd.jpg"
+      },
+      {
+        "car_type": "SUV",
+        "car_color": "Black",
+        "car_cost": 450,
+        "car_classification": "single",
+        "car_capacity": 1,
+        "car_number": "LMN789",
+        "car_image":"https://www.elbalad.news/Upload/libfiles/872/3/964.jpg"
+      },
+      {
+        "car_type": "SUV",
+        "car_color": "white",
+        "car_cost": 480,
+        "car_classification": "Family",
+        "car_capacity": 4,
+        "car_number": "GHI567",
+        "car_image":"https://www.elbalad.news/Upload/libfiles/879/7/488.jpg"
+      },
+      {
+        "car_type": "Coupe",
+        "car_color": "Silver",
+        "car_cost": 400,
+        "car_classification": "double",
+        "car_capacity": 2,
+        "car_number": "JKL012",
+        "car_image":"https://cdn.jdpower.com/j/55672.jpg"
+      },
+      {
+        "car_type": "Coupe",
+        "car_color": "orang",
+        "car_cost": 430,
+        "car_classification": "family",
+        "car_capacity": 6,
+        "car_number": "BCD678",
+        "car_image":"https://cdn.jdpower.com/JDPA_2020%20Ford%20Mustang%20Yellow%20Rear%20View.jpg"
+      },
+      {
+        "car_type": "Coupe",
+        "car_color": "yellow",
+        "car_cost": 410,
+        "car_classification": "Family",
+        "car_capacity": 7,
+        "car_number": "JKL890",
+        "car_image":"https://cdn-img.automoto.it/images/36428510/1200x/24c0119-008-jpg.jpeg"
+      },
+      {
+        "car_type": "Crossover",
+        "car_color": "White",
+        "car_cost": 350,
+        "car_classification": "single",
+        "car_capacity": 1,
+        "car_number": "QRS345",
+        "car_image":"https://ksa.motory.com/tinymce/_2024.jpg"
+
+      },
+      {
+        "car_type": "Crossover",
+        "car_color": "Red",
+        "car_cost": 370,
+        "car_classification": "Family",
+        "car_capacity": 5,
+        "car_number": "EFG901",
+        "car_image":"https://www.assayyarat.com/wp-content/uploads/2019/05/590999.jpg"
+      },
+      {
+        "car_type": "Crossover",
+        "car_color": "Dark Blue",
+        "car_cost": 360,
+        "car_classification": "double",
+        "car_capacity": 2,
+        "car_number": "MNO123",
+        "car_image":"https://cdn.al-ain.com/lg/images/2022/1/21/140-221922-best-midsize-suv-2022-4.jpeg"
+      },
+      
+      {
+        "car_type": "Marceds",
+        "car_color": "blue",
+        "car_cost": 500,
+        "car_classification": "Family",
+        "car_capacity": 3,
+        "car_number": "TUV678",
+        "car_image":"https://i.pinimg.com/736x/81/97/0b/81970b30b274dd1e64008e9741419c3a.jpg"
+      },
+      
+      {
+        "car_type": "Marceds",
+        "car_color": " White",
+        "car_cost": 520,
+        "car_classification": "Family",
+        "car_capacity": 6,
+        "car_number": "PQR456",
+        "car_image":"https://media.gemini.media/img/large/2014/11/27/2014_11_27_14_11_35_41.jpg"
+      },
+      {
+        "car_type": "bmw",
+        "car_color": " Black",
+        "car_cost": 550,
+        "car_classification": "double",
+        "car_capacity": 2,
+        "car_number": "STU789",
+        "car_image": "https://ymimg1.b8cdn.com/resized/car_model/9417/pictures/11046609/listing_main_14791_st1280_046.jpg"
+      },
+     
+      {
+        "car_type": "bmw",
+        "car_color": "blue",
+        "car_cost": 600,
+        "car_classification": "Family",
+        "car_capacity": 4,
+        "car_number": "YZA345",
+        "car_image": "https://ymimg1.b8cdn.com/resized/car_model/9417/pictures/11046622/mobile_listing_main_15242_cc1280_032_C1M.jpg"
+      }
+
+
+      
+    ]
+  
+  
+  
+  

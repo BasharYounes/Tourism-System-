@@ -1,0 +1,867 @@
+[
+    {
+      "name": "Hotel Alpha",
+      "address": "123 Main Street",
+      "city": "New York",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.marriott.com/hotel-alpha",
+      "photo": "https://content.skyscnr.com/available/1580609549/1580609549_576x576.jpg",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 150,
+          "reservation_type": "Standard",
+          "photo": "https://sheraton-reston-hotel.albooked.com/data/Photos/OriginalPhoto/9386/938623/938623246/Sheraton-Reston-Exterior.JPEG"
+        },
+        {
+          "capacity": 3,
+          "price": 220,
+          "reservation_type": "Deluxe",
+          "photo": "https://embassy-suites-washington-d-c.albooked.com/data/Photos/700x500/15494/1549432/1549432375/Embassy-Suites-By-Hilton-Washington-D-C-Georgetown-Exterior.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Beta",
+      "address": "456 Ocean Avenue",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hilton.com/hotel-beta",
+      "photo": "https://c.otcdn.com/imglib/hotelfotos/7/3528/--dora-suite-hotel--yeda-20230930144940881800.jpg",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 200,
+          "reservation_type": "Single",
+          "photo": "https://ar.hotelscombined.com/himg/74/41/d0/ice-3782370-99819414-396431.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 350,
+          "reservation_type": "Suite",
+          "photo": "https://ar.hotelscombined.com/himg/ba/5a/aa/ice-3782369-99993795-705792.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Gamma",
+      "address": "789 Park Lane",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.ihg.com/hotel-gamma",
+      "photo": "https://loluat-al-matar-furnished-units-jizan.albooked.com/data/Photos/OriginalPhoto/15749/1574942/1574942927/Loluat-Al-Matar-Furnished-Units-Hotel-Jizan-Exterior.JPEG",
+      "rating_average": 4.1,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 120,
+          "reservation_type": "Standard",
+          "photo": "https://ar.hotelscombined.com/himg/00/af/c6/ice-2529759-99836675-655713.jpg"
+        },
+        {
+          "capacity": 4,
+          "price": 200,
+          "reservation_type": "Family",
+          "photo": "https://www.boston-hotels-info.com/data/Pics/OriginalPhoto/15500/1550046/1550046262/pic-residence-inn-back-bay-fenway-boston-14.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Delta",
+      "address": "654 Willow Road",
+      "city": "San Francisco",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hyatt.com/hotel-delta",
+      "photo": "https://al-fakhamah-al-masiyah-furnished-units-medina.albooked.com/data/Photos/OriginalPhoto/6090/609073/609073232/Sultanah-Exterior.JPEG",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Luxury",
+          "photo": "https://cdn.al-ain.com/lg/images/2021/7/02/143-162923-before-you-travel-4-things-hotels-won-tell-you_700x400.jpg"
+        },
+        {
+          "capacity": 3,
+          "price": 450,
+          "reservation_type": "Suite",
+          "photo": "https://media-cdn.tripadvisor.com/media/photo-s/0c/f4/38/2a/jacuzzi-suite.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Epsilon",
+      "address": "321 Mountain Drive",
+      "city": "Denver",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.accor.com/hotel-epsilon",
+      "photo": "https://www.jeddah-hotels-sa.com/data/Photos/OriginalPhoto/8207/820735/820735409/jeddah-taleen-al-hamraa-hotel-photo-14.JPEG",
+      "rating_average": 4.3,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 130,
+          "reservation_type": "Single",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/1f/d5/d7/hotel-meridian-plaza.jpg?w=700&h=-1&s=1"
+        },
+        {
+          "capacity": 2,
+          "price": 190,
+          "reservation_type": "Double",
+          "photo": "https://www.urtrips.com/wp-content/uploads/2016/06/hotels-in-new-delhi-7.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Zeta",
+      "address": "777 Sea Avenue",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.wyndham.com/hotel-zeta",
+      "photo": "https://a.otcdn.com/imglib/hotelfotos/7/1511/hotel-qasr-aldur-an-najaf-20200930200041.jpg",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Suite",
+          "photo": "https://hotelroyalarabia.com/wp-content/uploads/2022/12/Highend-360-18.jpg"
+        },
+        {
+          "capacity": 4,
+          "price": 480,
+          "reservation_type": "Luxury",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/0a/43/9f/hotel-bb-palace.jpg?w=700&h=-1&s=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Eta",
+      "address": "987 Lake Shore Drive",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.choicehotels.com/hotel-eta",
+      "photo": "https://www.jeddahbesthotels.com/data/Pics/OriginalPhoto/5266/526663/526663851/pic-western-lamar-hotel-jeddah-16.JPEG",
+      "rating_average": 4.2,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 260,
+          "reservation_type": "Triple",
+          "photo": "https://hotel-gold-regency-new-delhi.albooked.com/data/Photos/OriginalPhoto/6443/644307/644307264/Exterior.JPEG"
+        },
+        {
+          "capacity": 2,
+          "price": 350,
+          "reservation_type": "Suite",
+          "photo": "https://www.beiruthotels.org/data/Photos/OriginalPhoto/12334/1233480/1233480461/photo-q-hotel-beirut-58.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Theta",
+      "address": "654 Elm Street",
+      "city": "San Diego",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.radissonhotels.com/hotel-theta",
+      "photo": "https://images.alwatanvoice.com/news/large/9998478977.jpg",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 280,
+          "reservation_type": "Single",
+          "photo": "https://www.jeddah-hotels-sa.com/data/Imgs/OriginalPhoto/5176/517649/517649607/img-diouf-al-safwa-jeddah-74.JPEG"
+        },
+        {
+          "capacity": 2,
+          "price": 400,
+          "reservation_type": "Double",
+          "photo": "https://www.jeddah-hotels-sa.com/data/Imgs/OriginalPhoto/5176/517692/517692243/img-diouf-al-safwa-jeddah-47.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Iota",
+      "address": "2109 Lake Road",
+      "city": "Seattle",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.bestwestern.com/hotel-iota",
+      "photo": "https://cf.bstatic.com/xdata/images/hotel/max500/274665832.jpg?k=aa6ea426faaf34afef85214e2eac0f9f0da515ed86288262ff56bcd61af21ed8&o=&hp=1",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Deluxe",
+          "photo": "https://www.jeddah-hotels-sa.com/data/Imgs/OriginalPhoto/15475/1547531/1547531221/img-diouf-al-safwa-jeddah-76.JPEG"
+        },
+        {
+          "capacity": 4,
+          "price": 450,
+          "reservation_type": "Luxury",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558757567.jpg?k=c90f683d3916cfb4a1ed6465af758a53c91d8037d162c0e1e7d1b3cb698fd203&o=&hp=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Kappa",
+      "address": "987 Ocean Drive",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.intercontinental.com/hotel-kappa",
+      "photo": "https://hotelcms-contents-live.tajawal.com/2c98e626-7d9f-44a6-88f1-1ea0e6c93ce6.jpg",
+      "rating_average": 4.2,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 200,
+          "reservation_type": "Standard",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558757601.jpg?k=5f650ea8050d2cd622caa4dc480fda2ee83e66b19fff4acdaa6b81edeb5c9bd8&o=&hp=1"
+        },
+        {
+          "capacity": 3,
+          "price": 260,
+          "reservation_type": "Family",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558757101.jpg?k=3f70673701d9166624473bc58eac269403ffe8efe1831f48bb55c7f63252a250&o=&hp=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Lambda",
+      "address": "321 Market Street",
+      "city": "Orlando",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.shangri-la.com/hotel-lambda",
+      "photo": "https://img.directhotels.com/ae/ras-al-khaimah/action-hotel-ras-al-khaimah/3.jpg",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 310,
+          "reservation_type": "Triple",
+          "photo": "https://sur-grand-hotel.albooked.com/data/Photos/OriginalPhoto/15903/1590394/1590394130/Sur-Grand-Hotel-Exterior.JPEG"
+        },
+        {
+          "capacity": 4,
+          "price": 500,
+          "reservation_type": "Family",
+          "photo": "https://al-aseel-hotel-doha.albooked.com/data/Photos/700x500/13917/1391770/1391770472/Al-Aseel-Hotel-Doha-Exterior.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Mu",
+      "address": "456 Sunset Boulevard",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.fourseasons.com/hotel-mu",
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/e2/77/ab/sur-plaza-hotel.jpg?w=1200&h=-1&s=1",
+      "rating_average": 4.0,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 100,
+          "reservation_type": "Double",
+          "photo": "https://al-aseel-hotel-doha.albooked.com/data/Photos/OriginalPhoto/12499/1249908/1249908304/Al-Aseel-Hotel-Doha-Exterior.JPEG"
+        },
+        {
+          "capacity": 1,
+          "price": 150,
+          "reservation_type": "Single",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max200/363001969.jpg?k=539416a94cfe6290f648f2e386df50271b57b27ad56633abbc7d8a86296fddf1&o=&hp=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Nu",
+      "address": "890 Greenway",
+      "city": "Atlanta",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.tajhotels.com/hotel-nu",
+      "photo": "https://www.freeiconspng.com/thumbs/hotel-png/hotel-png-10.png",
+      "rating_average": 4.3,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 180,
+          "reservation_type": "Single",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498342297.jpg?k=cac912bdf54b409a2971881871c6145c01abd98f7437d08249337811ce00a588&o=&hp=1"
+        },
+        {
+          "capacity": 2,
+          "price": 250,
+          "reservation_type": "Double",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max200/407080494.jpg?k=cfd073878fe29b9ebfae3f904d6b2bf85c8deb9da08ece72bc67cbef0d101a15&o=&hp=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Xi",
+      "address": "123 Bayside Avenue",
+      "city": "Tampa",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.stregis.com/hotel-xi",
+      "photo": "https://www.turkeytravel2.com/wp-content/uploads/51951408.jpg",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 400,
+          "reservation_type": "Luxury",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max200/567552864.jpg?k=042c5df512304a8d3dac5dcd6478cc37957e00f24311d17b90b8ca50d8aa86a4&o=&hp=1"
+        },
+        {
+          "capacity": 3,
+          "price": 550,
+          "reservation_type": "Suite",
+          "photo": "https://www.medina-hotels-sa.com/data/Photos/OriginalPhoto/15154/1515495/1515495718/medina-odst-al-madinah-photo-86.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Omicron",
+      "address": "456 Hill Road",
+      "city": "Boston",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.mandarinoriental.com/hotel-omicron",
+      "photo": "https://commons.wikimedia.org/wiki/File:Hotel_pic.jpg",
+      "rating_average": 4.6,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Standard",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max200/305422388.jpg?k=75fd2060c759114a01183ddd8d227a8df8e4ac5a80fb72691d1e0baaed823b4c&o=&hp=1"
+        },
+        {
+          "capacity": 4,
+          "price": 420,
+          "reservation_type": "Family",
+          "photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/b9/4a/a2/the-grand-hotel.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Pi",
+      "address": "789 Ocean Boulevard",
+      "city": "Newport",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.jumeirah.com/hotel-pi",
+      "photo": "https://ar.m.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Corinthia_Hotel_Tripoli_Libya.JPG",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 250,
+          "reservation_type": "Single",
+          "photo": "https://iqqrae.com/wp-content/uploads/2020/04/11-121.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 380,
+          "reservation_type": "Double",
+          "photo": "https://iqqrae.com/wp-content/uploads/2020/04/8-162.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Rho",
+      "address": "234 Park Lane",
+      "city": "San Francisco",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.rosewoodhotels.com/hotel-rho",
+      "photo": "https://images.alwatanvoice.com/news/large/9998478977.jpg",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 200,
+          "reservation_type": "Triple",
+          "photo": "https://www.almrsal.com/wp-content/uploads/2020/07/1-179.jpg"
+        },
+        {
+          "capacity": 4,
+          "price": 280,
+          "reservation_type": "Family",
+          "photo": "https://www.almrsal.com/wp-content/uploads/2020/07/5-32.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Sigma",
+      "address": "567 Palm Avenue",
+      "city": "Orlando",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.sofitel.com/hotel-sigma",
+      "photo": "https://www.3indubai.com/wp-content/uploads/2016/06/BAA9.jpg",
+      "rating_average": 4.0,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 150,
+          "reservation_type": "Single",
+          "photo": "https://s.alicdn.com/@sc04/kf/H6445b014ac8549269be4b1a40eeb75cfF.jpg_200x200.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 200,
+          "reservation_type": "Double",
+          "photo": "https://s.alicdn.com/@sc04/kf/H7fb097fc38944f98ba8e9a35cef5cca6Q.jpg_200x200.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Tau",
+      "address": "890 Lake Drive",
+      "city": "Seattle",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.ritzcarlton.com/hotel-tau",
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ba/d1/d5/modernity-hotel.jpg?w=700&h=-1&s=1",
+      "rating_average": 4.4,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Double",
+          "photo": "https://vid.alarabiya.net/images/2014/02/14/1402e0ad-2935-4557-8f5b-e66ef45bc9da/1402e0ad-2935-4557-8f5b-e66ef45bc9da_16x9_1200x676.jpg"
+        },
+        {
+          "capacity": 3,
+          "price": 350,
+          "reservation_type": "Triple",
+          "photo": "https://static.hiamag.com/styles/autox754/public/article/08/06/2020/9395476-1206592119.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Upsilon",
+      "address": "123 River Road",
+      "city": "Austin",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.fairmont.com/hotel-upsilon",
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/9b/3e/elite-crystal-hotel.jpg?w=700&h=-1&s=1",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 400,
+          "reservation_type": "Suite",
+          "photo": "https://s.alicdn.com/@sc04/kf/HLB11YzSVhTpK1RjSZFKq6y2wXXa6.jpg_300x300.jpg"
+        },
+        {
+          "capacity": 4,
+          "price": 600,
+          "reservation_type": "Luxury",
+          "photo": "https://algedra.com.tr/assets/imgs/service/kt6TvDOLzPwSyIL-Dc2xxkbv.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Phi",
+      "address": "456 Beach Road",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.luxurycollection.com/hotel-phi",
+      "photo": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_380,q_auto,w_240//hotelier-images/b1/c0/de7972f7281bc3aa8ca742673a8f585e016d4dc0d1f23e26c063fd6d8099.jpeg",
+      "rating_average": 3.9,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 120,
+          "reservation_type": "Single",
+          "photo": "https://www.karmaimpex.com/files/revised_images/hotel/portfolio_bc_hotels_27.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 180,
+          "reservation_type": "Double",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/35/8a/masharef-al-fakhama-aparthotel.jpg?w=1200&h=-1&s=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Chi",
+      "address": "789 Sunset Boulevard",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.andaz.com/hotel-chi",
+      "photo": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_380,q_auto,w_240//hotelier-images/b1/c0/de7972f7281bc3aa8ca742673a8f585e016d4dc0d1f23e26c063fd6d8099.jpeg",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 250,
+          "reservation_type": "Standard",
+          "photo": "https://hbeb.cc/wp-content/uploads/2019/05/6167.jpg"
+        },
+        {
+          "capacity": 3,
+          "price": 320,
+          "reservation_type": "Deluxe",
+          "photo": "https://www.mosafer.to/wp-content/uploads/2023/01/Dubai-mall-hotels-1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Psi",
+      "address": "123 Ocean Avenue",
+      "city": "Newport",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.peninsula.com/hotel-psi",
+      "photo": "https://7agzfondoq.com/Images/United-Arab-Emirates/Sharjah/Hotel/Al-Maha-Regency/200/Al-Maha-Regency.png",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 200,
+          "reservation_type": "Single",
+          "photo": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,c_scale,q_auto/cnnarabic/2024/07/04/images/271856.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 320,
+          "reservation_type": "Double",
+          "photo": "https://soularabia.net/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-06-at-5.24.42-PM.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Omega",
+      "address": "456 Lake Shore Drive",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.crowneplaza.com/hotel-omega",
+      "photo": "https://www.3indubai.com/wp-content/uploads/2017/03/88265413.jpg",
+      "rating_average": 4.6,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 250,
+          "reservation_type": "Double",
+          "photo": "https://7agzfondoq.com/Images/United-Arab-Emirates/Dubai/Hotel/Taj-Dubai/200/Taj-Dubai.png"
+        },
+        {
+          "capacity": 3,
+          "price": 300,
+          "reservation_type": "Family",
+          "photo": "https://static.sayidaty.net/2022-05/106212.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Zeta",
+      "address": "789 Greenway",
+      "city": "Atlanta",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.marriott.com/hotel-zeta",
+      "photo": "https://content.skyscnr.com/available/1364361053/1364361053_WxH.jpg",
+      "rating_average": 4.0,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 140,
+          "reservation_type": "Single",
+          "photo": "https://www.mosafer.to/wp-content/uploads/2023/03/Cheap-Dubai-hotels-with-a-private-pool-3.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 180,
+          "reservation_type": "Double",
+          "photo": "https://ar.hotelscombined.com/himg/cc/ee/f6/ice-2785297-119205192-969176.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Alpha",
+      "address": "123 Main Street",
+      "city": "New York",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.marriott.com/hotel-alpha",
+      "photo": "https://www.nreservi.pro/cr.fwk/images/hotels/Hotel-2768-20191119-023047.jpg",
+      "rating_average": 4.5,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 150,
+          "reservation_type": "Standard",
+          "photo": "https://ar.hotelscombined.com/himg/38/a2/de/leonardo-2093613-DXBSZ_6377170278_O-051387.jpg"
+        },
+        {
+          "capacity": 3,
+          "price": 220,
+          "reservation_type": "Deluxe",
+          "photo": "https://ar.hotelscombined.com/himg/33/01/9b/ice-99491-99715819-896974.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Beta",
+      "address": "456 Ocean Avenue",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hilton.com/hotel-beta",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/23/b0/93/a5/exterior-view.jpg",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 200,
+          "reservation_type": "Single",
+          "photo": "https://ar.hotelscombined.com/himg/6d/90/1c/ice-99491-99715790-381369.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 350,
+          "reservation_type": "Suite",
+          "photo": "https://ar.hotelscombined.com/himg/88/19/2c/leonardo-2189197-93697116-832594.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Gamma",
+      "address": "789 Park Lane",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.ihg.com/hotel-gamma",
+      "photo": "https://www.besthotelinmecca.net/data/Pictures/700x500w/5721/572134/572134101/picture-mecca-snood-al-azama-hotel-jabal-thawr-road-1.JPEG",
+      "rating_average": 4.1,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 120,
+          "reservation_type": "Standard",
+          "photo": "https://ar.hotelscombined.com/himg/fb/9c/65/agoda-2189197-372074618-126107.jpg"
+        },
+        {
+          "capacity": 4,
+          "price": 200,
+          "reservation_type": "Family",
+          "photo": "https://hotelcms-contents-live.tajawal.com/7251c374-6e8b-4b8e-8777-44f14b381b42.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Delta",
+      "address": "654 Willow Road",
+      "city": "San Francisco",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.hyatt.com/hotel-delta",
+      "photo": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_780,h_439,c_fill,q_auto/cnnarabic/2015/12/04/images/39965.jpg",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Luxury",
+          "photo": "https://ar.hotelscombined.com/himg/e0/4e/d3/leonardo-869914-177360903-310076.jpg"
+        },
+        {
+          "capacity": 3,
+          "price": 450,
+          "reservation_type": "Suite",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463635652.jpg?k=6697f5a150bd26ce95441f8bbc57303161743ffedcc6a2fc3ec031e88248137a&o=&hp=1"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Epsilon",
+      "address": "321 Mountain Drive",
+      "city": "Denver",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.accor.com/hotel-epsilon",
+      "photo": "https://media.gemini.media/img/large/2019/8/7/2019_8_7_14_7_11_84.jpg",
+      "rating_average": 4.3,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 130,
+          "reservation_type": "Single",
+          "photo": "https://aloft-al-mina-dubai.hotels-in-dubai.org/data/Pictures/OriginalPhoto/14086/1408695/1408695098/dubai-aloft-al-mina-picture-19.JPEG"
+        },
+        {
+          "capacity": 2,
+          "price": 190,
+          "reservation_type": "Double",
+          "photo": "https://ar.hotelscombined.com/himg/37/0e/fd/leonardo-2701317-177709426-753158.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Zeta",
+      "address": "777 Sea Avenue",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.wyndham.com/hotel-zeta",
+      "photo": "https://siaha.net/wp-content/uploads/2021/11/%D8%A8%D8%A7%D8%B1%D8%B2%D8%A9-768x512.jpg",
+      "rating_average": 4.8,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 280,
+          "reservation_type": "Suite",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b0/0f/a2/rooms.jpg?w=500&h=-1&s=1"
+        },
+        {
+          "capacity": 4,
+          "price": 480,
+          "reservation_type": "Luxury",
+          "photo": "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/6608967321235919-88ed4247_z.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Eta",
+      "address": "987 Lake Shore Drive",
+      "city": "Chicago",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.choicehotels.com/hotel-eta",
+      "photo": "https://safarin.net/wp-content/uploads/2017/03/17-03-17_13-38-59.jpg",
+      "rating_average": 4.2,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 260,
+          "reservation_type": "Triple",
+          "photo": "https://ar.hotelscombined.com/himg/ec/0c/38/leonardo-1067683-lftcy-suite-0109-hor-clsc_O-920894.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 210,
+          "reservation_type": "Double",
+          "photo": "https://ar.hotelscombined.com/himg/e7/6e/0d/ice-160189-99571360-978152.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Theta",
+      "address": "456 City Center",
+      "city": "New York",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.melia.com/hotel-theta",
+      "photo": "https://media.hotelscombined.com/HI156264757.jpg",
+      "rating_average": 4.7,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 300,
+          "reservation_type": "Standard",
+          "photo": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/302160871.jpg?k=84cb9bb3edc2aa305c780da334c365e2de1c709aab4f7bc6a40ff659c24e3bf4&o="
+        },
+        {
+          "capacity": 4,
+          "price": 500,
+          "reservation_type": "Family",
+          "photo": "https://ar.hotelscombined.com/himg/4d/e4/fc/ice-5837-97548417-323915.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Iota",
+      "address": "999 Canyon Boulevard",
+      "city": "Los Angeles",
+      "country": "USA",
+      "star_rating": 3,
+      "url": "https://www.radissonhotels.com/hotel-iota",
+      "photo": "https://www.emaratalyoum.com/polopoly_fs/1.1502846.1623856261!/image/image.jpg",
+      "rating_average": 3.8,
+      "rooms": [
+        {
+          "capacity": 1,
+          "price": 110,
+          "reservation_type": "Single",
+          "photo": "https://www.urtrips.com/wp-content/uploads/2018/12/aloft-al-ain1.jpg"
+        },
+        {
+          "capacity": 2,
+          "price": 170,
+          "reservation_type": "Double",
+          "photo": "https://www.hotels-newyorkcity.org/data/Pics/OriginalPhoto/8301/830197/830197115/pic-wyndham-midtown-45-hotel-new-york-23.JPEG"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Kappa",
+      "address": "123 Beachfront Road",
+      "city": "Miami",
+      "country": "USA",
+      "star_rating": 4,
+      "url": "https://www.lhw.com/hotel-kappa",
+      "photo": "https://i.ytimg.com/vi/Y37-GsMlebQ/hqdefault.jpg",
+      "rating_average": 4.4,
+      "rooms": [
+        {
+          "capacity": 2,
+          "price": 240,
+          "reservation_type": "Double",
+          "photo": "https://ar.hotelscombined.com/himg/ea/7c/a0/ice-34772-109811260-398456.jpg"
+        },
+        {
+          "capacity": 3,
+          "price": 320,
+          "reservation_type": "Triple",
+          "photo": "https://ar.hotelscombined.com/himg/49/74/8f/expediav2-3782370-c95d66-377543.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Lambda",
+      "address": "789 Broadway",
+      "city": "San Diego",
+      "country": "USA",
+      "star_rating": 5,
+      "url": "https://www.relaischateaux.com/hotel-lambda",
+      "photo": "https://media.hotelscombined.com/HI156264757.jpg",
+      "rating_average": 4.9,
+      "rooms": [
+        {
+          "capacity": 3,
+          "price": 310,
+          "reservation_type": "Triple",
+          "photo": "https://ar.hotelscombined.com/himg/cb/a1/e3/revato-11167-5016804-620712.jpg"
+        },
+        {
+          "capacity": 4,
+          "price": 500,
+          "reservation_type": "Family",
+          "photo": "https://content.r9cdn.net/rimg/himg/8c/49/62/leonardo-308279-150611524-124401.jpg?width=500&height=350&xhint=540&yhint=333&crop=true&watermarkposition=lowerright"
+        }
+      ]
+    }
+  ]
+  
