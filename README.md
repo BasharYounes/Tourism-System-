@@ -21,5 +21,12 @@ A Laravel-based system for managing hotel and tour bookings with API integration
 - `/app/Models/Booking.php`
 - `/app/Http/Controllers/BookingController.php`
 
+## 🚀 Getting Started
+1. Clone repo
+2. Run `composer install`
+3. Configure `.env` file and DB
+4. Run `php artisan migrate --seed`
+5. Visit `/dashboard` to start using
+
 ## 🔗 Project Link
 [GitHub Repository](https://github.com/BasharYounes/Tourism-System-)
